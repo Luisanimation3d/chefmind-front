@@ -43,61 +43,64 @@ export const App = () => {
   }
 
   return (
-    <div style={{
-      display: 'flex',
-      justifyContent: 'center',
-      alignItems: 'center',
-      flexDirection: 'column',
-      gap: '1rem'
-    }}>
-      <h2
-        style={{
-          color: '#fff',
-          textTransform: 'uppercase',
-          letterSpacing: '0.08em',
-          fontSize: '1.5rem'
-        }}
-      >
-        {currentType}
-      </h2>
-      <div
-        className="cards_container"
-        style={{
-          gridTemplateColumns: `repeat(${gridSize}, 1fr)`,
-        }}
-      >
-        {items.map((item) => (
-          <CardIngredient
-            key={item.id}
-            ingredient={item}
-            onClick={onSelect}
-            selected={selected[step] === item.id}
-            dimmed={selected[step] !== item.id}
-          />
-        ))}
-      </div>
-      <div
-        className="buttons_container"
-      >
-        {
-          step > 0 &&
-          <button
-            className="prev-btn"
-            onClick={() => setStep(step - 1)}
-          >
-            prev
-          </button>
-        }
-        <button
-          onClick={handleNext}
+    <>
+      <h1 className="logo">LUCAYAJO</h1>
+      <div style={{
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        flexDirection: 'column',
+        gap: '1rem'
+      }}>
+        <h2
+          style={{
+            color: '#fff',
+            textTransform: 'uppercase',
+            letterSpacing: '0.08em',
+            fontSize: '1.5rem'
+          }}
+        >
+          {currentType}
+        </h2>
+        <div
+          className="cards_container"
+          style={{
+            gridTemplateColumns: `repeat(${gridSize}, 1fr)`,
+          }}
+        >
+          {items.map((item) => (
+            <CardIngredient
+              key={item.id}
+              ingredient={item}
+              onClick={onSelect}
+              selected={selected[step] === item.id}
+              dimmed={selected[step] !== item.id}
+            />
+          ))}
+        </div>
+        <div
+          className="buttons_container"
         >
           {
-            step === 3 ?
-            'finish' :
-            'next'
+            step > 0 &&
+            <button
+              className="prev-btn"
+              onClick={() => setStep(step - 1)}
+            >
+              prev
+            </button>
           }
-        </button>
+          <button
+            onClick={handleNext}
+          >
+            {
+              step === 3 ?
+              'finish' :
+              'next'
+            }
+          </button>
+        </div>
       </div>
-    </div>
+    </>
   )
 }
