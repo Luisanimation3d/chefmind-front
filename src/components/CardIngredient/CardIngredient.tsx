@@ -1,23 +1,38 @@
 import styles from './CardIngredient.module.css'
 
 export const CardIngredient = ({
-    selected
+    selected,
+    dimmed,
+    onClick,
+    ingredient
 }: {
-    selected?: boolean
+    selected?: boolean,
+    dimmed?: boolean,
+    onClick: (id: number) => void,
+    ingredient: {
+        id: number,
+        name: string,
+        imagen: string
+    }
 }) => {
     return (
         <div
-            className={`${styles.card_container} ${selected ? styles.card_selected : ''}`}
+            className={`
+                ${styles.card_container} 
+                ${selected ? styles.card_selected : ''}
+                ${dimmed ? styles.card_dimmed : ''}
+            `}
+            onClick={() => onClick(ingredient.id)}
         >
             <img 
-                src="https://images.unsplash.com/photo-1618422689173-3dbcdeb82fa7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-                alt="Frambuesa" 
+                src={`/public/ingresients/${ingredient.imagen}`}
+                alt={ingredient.name}
                 className={`${styles.card_image}`}
             />
             <div
                 className={`${styles.card_info}`}
             >
-                <span>Frambuesa</span>
+                <span>{ingredient.name}</span>
             </div>
         </div>
     )
