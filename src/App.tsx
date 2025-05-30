@@ -1,35 +1,61 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { CardIngredient } from "./components/CardIngredient/CardIngredient"
 
-function App() {
-  const [count, setCount] = useState(0)
-
+export const App = () => {
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <div style={{
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      flexDirection: 'column',
+      gap: '1rem'
+    }}>
+      <h2
+        style={{
+          color: '#fff',
+          textTransform: 'uppercase',
+          letterSpacing: '0.08em',
+          fontSize: '1.5rem'
+        }}
+      >Fruta</h2>
+      <div
+        style={{
+          display: "grid",
+          gap: "1rem",
+          gridTemplateColumns: "1fr 1fr 1fr",
+          placeContent: "center",
+        }}
+      >
+        <CardIngredient/>
+        <CardIngredient/>
+        <CardIngredient/>
+        <CardIngredient/>
+        <CardIngredient selected/>
+        <CardIngredient/>
+        <CardIngredient/>
+        <CardIngredient/>
+        <CardIngredient/>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+      <button
+        style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          padding: '.5rem 1rem',
+          borderRadius: '8px',
+          border: 'none',
+          background: '#00C896',
+          color: '#fff',
+          fontWeight: '700',
+          letterSpacing: '0.04em'
+        }}
+      >
+        Siguiente
+      </button>
+    </div>
   )
 }
 
-export default App
+// proteina
+//  carbohidrato
+//  Salsa
+// Vegetal
