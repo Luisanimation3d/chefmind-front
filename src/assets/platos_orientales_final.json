@@ -1,0 +1,1887 @@
+[
+  {
+    "dish_id": 1,
+    "combo_id": "1-4-7-10",
+    "name": "Fuji Dream",
+    "imagen": "Fuji Dream.png",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Arroz blanco, realzado con Miso y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "20 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Salmón",
+      "sauce": "Miso",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "20 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 2,
+    "combo_id": "1-4-7-11",
+    "name": "Samurai Harmony",
+    "imagen": "Samurai Harmony.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Arroz blanco, realzado con Miso y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "15 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Salmón",
+      "sauce": "Miso",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "15 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 3,
+    "combo_id": "1-4-7-12",
+    "name": "Fuji Fusion",
+    "imagen": "Fuji Fusion.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Arroz blanco, realzado con Miso y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "15 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Salmón",
+      "sauce": "Miso",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "15 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 4,
+    "combo_id": "1-4-8-10",
+    "name": "Shogun Fusion",
+    "imagen": "Shogun Fusion.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Arroz blanco, realzado con Aceite de sésamo y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "18 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Salmón",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "18 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 5,
+    "combo_id": "1-4-8-11",
+    "name": "Tokyo Fusion",
+    "imagen": "Tokyo Fusion.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Arroz blanco, realzado con Aceite de sésamo y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "25 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Salmón",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "25 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 6,
+    "combo_id": "1-4-8-12",
+    "name": "Hikari Dream",
+    "imagen": "Hikari Dream.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Arroz blanco, realzado con Aceite de sésamo y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "21 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Salmón",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "21 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 7,
+    "combo_id": "1-4-9-10",
+    "name": "Samurai Twister",
+    "imagen": "Samurai Twister.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Arroz blanco, realzado con Salsa de soya y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "15 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Salmón",
+      "sauce": "Salsa de soya",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "15 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 8,
+    "combo_id": "1-4-9-11",
+    "name": "Fuji Delight",
+    "imagen": "Fuji Delight.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Arroz blanco, realzado con Salsa de soya y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "23 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Salmón",
+      "sauce": "Salsa de soya",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "23 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 9,
+    "combo_id": "1-4-9-12",
+    "name": "Samurai Fusion",
+    "imagen": "Samurai Fusion.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Arroz blanco, realzado con Salsa de soya y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "16 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Salmón",
+      "sauce": "Salsa de soya",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "16 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 10,
+    "combo_id": "1-5-7-10",
+    "name": "Kawaii Delight",
+    "imagen": "Kawaii Delight.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Arroz blanco, realzado con Miso y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "12 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Pollo teriyaki",
+      "sauce": "Miso",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "12 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 11,
+    "combo_id": "1-5-7-11",
+    "name": "Tokyo Surprise",
+    "imagen": "Tokyo Surprise.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Arroz blanco, realzado con Miso y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "22 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Pollo teriyaki",
+      "sauce": "Miso",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "22 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 12,
+    "combo_id": "1-5-7-12",
+    "name": "Sakura Joy",
+    "imagen": "Sakura Joy.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Arroz blanco, realzado con Miso y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "20 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Pollo teriyaki",
+      "sauce": "Miso",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "20 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 13,
+    "combo_id": "1-5-8-10",
+    "name": "Samurai Delight",
+    "imagen": "Samurai Delight.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Arroz blanco, realzado con Aceite de sésamo y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "13 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Pollo teriyaki",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "13 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 14,
+    "combo_id": "1-5-8-11",
+    "name": "Kawaii Fusion",
+    "imagen": "Kawaii Fusion.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Arroz blanco, realzado con Aceite de sésamo y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "19 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Pollo teriyaki",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "19 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 15,
+    "combo_id": "1-5-8-12",
+    "name": "Hikari Harmony",
+    "imagen": "Hikari Harmony.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Arroz blanco, realzado con Aceite de sésamo y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "12 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Pollo teriyaki",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "12 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 16,
+    "combo_id": "1-5-9-10",
+    "name": "Sakura Joy",
+    "imagen": "Sakura Joy (3)_1-5-9-10.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Arroz blanco, realzado con Salsa de soya y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "12 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Pollo teriyaki",
+      "sauce": "Salsa de soya",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "12 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 17,
+    "combo_id": "1-5-9-11",
+    "name": "Sakura Joy",
+    "imagen": "Sakura Joy 1-5-9-11.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Arroz blanco, realzado con Salsa de soya y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "22 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Pollo teriyaki",
+      "sauce": "Salsa de soya",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "22 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 18,
+    "combo_id": "1-5-9-12",
+    "name": "Kawaii Power",
+    "imagen": "Kawaii Power.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Arroz blanco, realzado con Salsa de soya y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "24 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Pollo teriyaki",
+      "sauce": "Salsa de soya",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "24 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 19,
+    "combo_id": "1-6-7-10",
+    "name": "Samurai Delight",
+    "imagen": "Samurai Delight 1_6_7_10.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Arroz blanco, realzado con Miso y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "20 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Tofu",
+      "sauce": "Miso",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "20 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 20,
+    "combo_id": "1-6-7-11",
+    "name": "Shogun Delight",
+    "imagen": "Shogun Delight.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Arroz blanco, realzado con Miso y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Tofu",
+      "sauce": "Miso",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 21,
+    "combo_id": "1-6-7-12",
+    "name": "Shogun Twister",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Arroz blanco, realzado con Miso y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "19 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Tofu",
+      "sauce": "Miso",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "19 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 22,
+    "combo_id": "1-6-8-10",
+    "name": "Samurai Fusion",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Arroz blanco, realzado con Aceite de sésamo y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "13 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Tofu",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "13 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 23,
+    "combo_id": "1-6-8-11",
+    "name": "Fuji Flame",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Arroz blanco, realzado con Aceite de sésamo y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "14 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Tofu",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "14 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 24,
+    "combo_id": "1-6-8-12",
+    "name": "Samurai Delight",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Arroz blanco, realzado con Aceite de sésamo y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "25 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Tofu",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "25 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 25,
+    "combo_id": "1-6-9-10",
+    "name": "Fuji Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Arroz blanco, realzado con Salsa de soya y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "12 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Tofu",
+      "sauce": "Salsa de soya",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "12 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 26,
+    "combo_id": "1-6-9-11",
+    "name": "Samurai Delight",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Arroz blanco, realzado con Salsa de soya y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Tofu",
+      "sauce": "Salsa de soya",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 27,
+    "combo_id": "1-6-9-12",
+    "name": "Nami Power",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Arroz blanco, realzado con Salsa de soya y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "13 min",
+    "ingredients": {
+      "carbohydrate": "Arroz blanco",
+      "protein": "Tofu",
+      "sauce": "Salsa de soya",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "13 min",
+      "steps": [
+        "Cocina el Arroz blanco hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 28,
+    "combo_id": "2-4-7-10",
+    "name": "Nami Bowl",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos udon, realzado con Miso y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "21 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Salmón",
+      "sauce": "Miso",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "21 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 29,
+    "combo_id": "2-4-7-11",
+    "name": "Hikari Delight",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos udon, realzado con Miso y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "13 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Salmón",
+      "sauce": "Miso",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "13 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 30,
+    "combo_id": "2-4-7-12",
+    "name": "Shogun Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos udon, realzado con Miso y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "22 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Salmón",
+      "sauce": "Miso",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "22 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 31,
+    "combo_id": "2-4-8-10",
+    "name": "Yuzu Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos udon, realzado con Aceite de sésamo y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Salmón",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 32,
+    "combo_id": "2-4-8-11",
+    "name": "Yuzu Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos udon, realzado con Aceite de sésamo y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "19 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Salmón",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "19 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 33,
+    "combo_id": "2-4-8-12",
+    "name": "Sakura Fusion",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos udon, realzado con Aceite de sésamo y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "22 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Salmón",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "22 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 34,
+    "combo_id": "2-4-9-10",
+    "name": "Tokyo Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos udon, realzado con Salsa de soya y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "18 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Salmón",
+      "sauce": "Salsa de soya",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "18 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 35,
+    "combo_id": "2-4-9-11",
+    "name": "Fuji Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos udon, realzado con Salsa de soya y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Salmón",
+      "sauce": "Salsa de soya",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 36,
+    "combo_id": "2-4-9-12",
+    "name": "Zen Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos udon, realzado con Salsa de soya y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "18 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Salmón",
+      "sauce": "Salsa de soya",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "18 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 37,
+    "combo_id": "2-5-7-10",
+    "name": "Tokyo Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos udon, realzado con Miso y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "18 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Pollo teriyaki",
+      "sauce": "Miso",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "18 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 38,
+    "combo_id": "2-5-7-11",
+    "name": "Tokyo Delight",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos udon, realzado con Miso y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "19 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Pollo teriyaki",
+      "sauce": "Miso",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "19 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 39,
+    "combo_id": "2-5-7-12",
+    "name": "Nami Flame",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos udon, realzado con Miso y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "18 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Pollo teriyaki",
+      "sauce": "Miso",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "18 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 40,
+    "combo_id": "2-5-8-10",
+    "name": "Kawaii Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos udon, realzado con Aceite de sésamo y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "25 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Pollo teriyaki",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "25 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 41,
+    "combo_id": "2-5-8-11",
+    "name": "Kawaii Power",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos udon, realzado con Aceite de sésamo y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "25 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Pollo teriyaki",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "25 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 42,
+    "combo_id": "2-5-8-12",
+    "name": "Sakura Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos udon, realzado con Aceite de sésamo y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "16 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Pollo teriyaki",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "16 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 43,
+    "combo_id": "2-5-9-10",
+    "name": "Tokyo Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos udon, realzado con Salsa de soya y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "22 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Pollo teriyaki",
+      "sauce": "Salsa de soya",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "22 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 44,
+    "combo_id": "2-5-9-11",
+    "name": "Kawaii Fusion",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos udon, realzado con Salsa de soya y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "21 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Pollo teriyaki",
+      "sauce": "Salsa de soya",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "21 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 45,
+    "combo_id": "2-5-9-12",
+    "name": "Hikari Flame",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos udon, realzado con Salsa de soya y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "25 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Pollo teriyaki",
+      "sauce": "Salsa de soya",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "25 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 46,
+    "combo_id": "2-6-7-10",
+    "name": "Samurai Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos udon, realzado con Miso y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "19 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Tofu",
+      "sauce": "Miso",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "19 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 47,
+    "combo_id": "2-6-7-11",
+    "name": "Kawaii Delight",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos udon, realzado con Miso y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "23 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Tofu",
+      "sauce": "Miso",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "23 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 48,
+    "combo_id": "2-6-7-12",
+    "name": "Kawaii Harmony",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos udon, realzado con Miso y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "25 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Tofu",
+      "sauce": "Miso",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "25 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 49,
+    "combo_id": "2-6-8-10",
+    "name": "Yuzu Flame",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos udon, realzado con Aceite de sésamo y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "14 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Tofu",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "14 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 50,
+    "combo_id": "2-6-8-11",
+    "name": "Tokyo Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos udon, realzado con Aceite de sésamo y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "15 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Tofu",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "15 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 51,
+    "combo_id": "2-6-8-12",
+    "name": "Zen Bowl",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos udon, realzado con Aceite de sésamo y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "22 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Tofu",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "22 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 52,
+    "combo_id": "2-6-9-10",
+    "name": "Sakura Delight",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos udon, realzado con Salsa de soya y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "21 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Tofu",
+      "sauce": "Salsa de soya",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "21 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 53,
+    "combo_id": "2-6-9-11",
+    "name": "Kawaii Power",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos udon, realzado con Salsa de soya y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "14 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Tofu",
+      "sauce": "Salsa de soya",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "14 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 54,
+    "combo_id": "2-6-9-12",
+    "name": "Sakura Harmony",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos udon, realzado con Salsa de soya y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "13 min",
+    "ingredients": {
+      "carbohydrate": "Fideos udon",
+      "protein": "Tofu",
+      "sauce": "Salsa de soya",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "13 min",
+      "steps": [
+        "Cocina el Fideos udon hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 55,
+    "combo_id": "3-4-7-10",
+    "name": "Sakura Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos soba, realzado con Miso y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "15 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Salmón",
+      "sauce": "Miso",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "15 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 56,
+    "combo_id": "3-4-7-11",
+    "name": "Zen Delight",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos soba, realzado con Miso y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "23 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Salmón",
+      "sauce": "Miso",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "23 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 57,
+    "combo_id": "3-4-7-12",
+    "name": "Fuji Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos soba, realzado con Miso y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Salmón",
+      "sauce": "Miso",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 58,
+    "combo_id": "3-4-8-10",
+    "name": "Nami Power",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos soba, realzado con Aceite de sésamo y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Salmón",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 59,
+    "combo_id": "3-4-8-11",
+    "name": "Fuji Bowl",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos soba, realzado con Aceite de sésamo y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Salmón",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 60,
+    "combo_id": "3-4-8-12",
+    "name": "Samurai Fusion",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos soba, realzado con Aceite de sésamo y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "15 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Salmón",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "15 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 61,
+    "combo_id": "3-4-9-10",
+    "name": "Hikari Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos soba, realzado con Salsa de soya y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "14 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Salmón",
+      "sauce": "Salsa de soya",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "14 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 62,
+    "combo_id": "3-4-9-11",
+    "name": "Kawaii Joy",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos soba, realzado con Salsa de soya y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Salmón",
+      "sauce": "Salsa de soya",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 63,
+    "combo_id": "3-4-9-12",
+    "name": "Sakura Delight",
+    "description": "Déjate tentar por esta combinación exquisita: Salmón a la perfección sobre Fideos soba, realzado con Salsa de soya y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "18 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Salmón",
+      "sauce": "Salsa de soya",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "18 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Salmón hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 64,
+    "combo_id": "3-5-7-10",
+    "name": "Shogun Bowl",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos soba, realzado con Miso y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Pollo teriyaki",
+      "sauce": "Miso",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 65,
+    "combo_id": "3-5-7-11",
+    "name": "Shogun Bowl",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos soba, realzado con Miso y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "25 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Pollo teriyaki",
+      "sauce": "Miso",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "25 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 66,
+    "combo_id": "3-5-7-12",
+    "name": "Samurai Delight",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos soba, realzado con Miso y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "15 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Pollo teriyaki",
+      "sauce": "Miso",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "15 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 67,
+    "combo_id": "3-5-8-10",
+    "name": "Sakura Flame",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos soba, realzado con Aceite de sésamo y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "14 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Pollo teriyaki",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "14 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 68,
+    "combo_id": "3-5-8-11",
+    "name": "Sakura Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos soba, realzado con Aceite de sésamo y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "14 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Pollo teriyaki",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "14 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 69,
+    "combo_id": "3-5-8-12",
+    "name": "Tokyo Surprise",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos soba, realzado con Aceite de sésamo y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "19 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Pollo teriyaki",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "19 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 70,
+    "combo_id": "3-5-9-10",
+    "name": "Sakura Twister",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos soba, realzado con Salsa de soya y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "18 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Pollo teriyaki",
+      "sauce": "Salsa de soya",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "18 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 71,
+    "combo_id": "3-5-9-11",
+    "name": "Tokyo Bowl",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos soba, realzado con Salsa de soya y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Pollo teriyaki",
+      "sauce": "Salsa de soya",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 72,
+    "combo_id": "3-5-9-12",
+    "name": "Tokyo Fusion",
+    "description": "Déjate tentar por esta combinación exquisita: Pollo teriyaki a la perfección sobre Fideos soba, realzado con Salsa de soya y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "12 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Pollo teriyaki",
+      "sauce": "Salsa de soya",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "12 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Pollo teriyaki hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 73,
+    "combo_id": "3-6-7-10",
+    "name": "Kawaii Bowl",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos soba, realzado con Miso y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "23 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Tofu",
+      "sauce": "Miso",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "23 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 74,
+    "combo_id": "3-6-7-11",
+    "name": "Kawaii Power",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos soba, realzado con Miso y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "25 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Tofu",
+      "sauce": "Miso",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "25 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 75,
+    "combo_id": "3-6-7-12",
+    "name": "Fuji Fusion",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos soba, realzado con Miso y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "16 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Tofu",
+      "sauce": "Miso",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "16 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Miso y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 76,
+    "combo_id": "3-6-8-10",
+    "name": "Shogun Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos soba, realzado con Aceite de sésamo y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Tofu",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 77,
+    "combo_id": "3-6-8-11",
+    "name": "Zen Power",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos soba, realzado con Aceite de sésamo y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "23 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Tofu",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "23 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 78,
+    "combo_id": "3-6-8-12",
+    "name": "Tokyo Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos soba, realzado con Aceite de sésamo y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "19 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Tofu",
+      "sauce": "Aceite de sésamo",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "19 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Aceite de sésamo y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 79,
+    "combo_id": "3-6-9-10",
+    "name": "Yuzu Dream",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos soba, realzado con Salsa de soya y acompañado de Alga wakame. Un plato pensado para enamorar tu paladar.",
+    "time": "14 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Tofu",
+      "sauce": "Salsa de soya",
+      "vegetable": "Alga wakame"
+    },
+    "recipe": {
+      "preparation_time": "14 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Alga wakame y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 80,
+    "combo_id": "3-6-9-11",
+    "name": "Zen Joy",
+    "imagen":"ChatGPT Image 30 may 2025, 03_27_46.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos soba, realzado con Salsa de soya y acompañado de Espinaca. Un plato pensado para enamorar tu paladar.",
+    "time": "17 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Tofu",
+      "sauce": "Salsa de soya",
+      "vegetable": "Espinaca"
+    },
+    "recipe": {
+      "preparation_time": "17 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Espinaca y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  },
+  {
+    "dish_id": 81,
+    "combo_id": "3-6-9-12",
+    "name": "Zen Flame",
+    "imagen":"ChatGPT Image 30 may 2025, 03_32_40.jpg",
+    "description": "Déjate tentar por esta combinación exquisita: Tofu a la perfección sobre Fideos soba, realzado con Salsa de soya y acompañado de Setas shiitake. Un plato pensado para enamorar tu paladar.",
+    "time": "12 min",
+    "ingredients": {
+      "carbohydrate": "Fideos soba",
+      "protein": "Tofu",
+      "sauce": "Salsa de soya",
+      "vegetable": "Setas shiitake"
+    },
+    "recipe": {
+      "preparation_time": "12 min",
+      "steps": [
+        "Cocina el Fideos soba hasta alcanzar una textura ideal.",
+        "En una sartén, saltea el Tofu hasta que esté bien dorado.",
+        "Añade el Setas shiitake y saltea brevemente para mantener su frescura.",
+        "Incorpora el Salsa de soya y deja que los sabores se integren.",
+        "Sirve inmediatamente y decora al gusto con semillas de sésamo o cebollín fresco."
+      ]
+    }
+  }
+]
