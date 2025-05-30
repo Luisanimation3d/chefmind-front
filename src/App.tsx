@@ -1,6 +1,7 @@
 import { CardIngredient } from "./components/CardIngredient/CardIngredient"
 import ingredients from './assets/ingredientes_orientales.json'
 import { useState } from "react";
+import './App.css'
 interface Ingredient {
   id: number;
   name: string;
@@ -10,6 +11,7 @@ interface Ingredient {
 
 export const App = () => {
   const [step, setStep] = useState(1)
+  const [selected, setSelected] = useState<number[]>([])
 
   const grouped = ingredients.reduce<Record<string, Ingredient[]>>((acc, item) => {
     if (!acc[item.type]) {
@@ -26,6 +28,13 @@ export const App = () => {
   const items = grouped[currentType] || []
 
   const gridSize = Math.ceil(Math.sqrt(items.length));
+
+  const onSelect = (id: number) => {
+    const selectedItems = [...selected];
+    selectedItems[step] = id;
+    setSelected(selectedItems)
+  }
+
   return (
     <div style={{
       display: 'flex',
@@ -45,36 +54,42 @@ export const App = () => {
         {currentType}
       </h2>
       <div
+        className="cards_container"
         style={{
-          display: "grid",
-          gap: "1rem",
           gridTemplateColumns: `repeat(${gridSize}, 1fr)`,
-          placeContent: "center",
         }}
       >
         {items.map((item) => (
           <CardIngredient
             key={item.id}
             ingredient={item}
+            onClick={onSelect}
+            selected={selected[step] === item.id}
           />
         ))}
       </div>
-      <button
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          padding: '.5rem 1rem',
-          borderRadius: '8px',
-          border: 'none',
-          background: '#00C896',
-          color: '#fff',
-          fontWeight: '700',
-          letterSpacing: '0.04em'
-        }}
+      <div
+        className="buttons_container"
       >
-        Siguiente
-      </button>
+        {
+          step > 1 &&
+          <button
+            className="prev-btn"
+            onClick={() => setStep(step - 1)}
+          >
+            prev
+          </button>
+        }
+        <button
+          onClick={() => setStep(step + 1)}
+        >
+          {
+            step === 4 ?
+            'finish' :
+            'next'
+          }
+        </button>
+      </div>
     </div>
   )
 }
