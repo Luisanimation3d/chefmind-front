@@ -10,7 +10,7 @@ interface Ingredient {
 }
 
 export const App = () => {
-  const [step, setStep] = useState(1)
+  const [step, setStep] = useState(0)
   const [selected, setSelected] = useState<number[]>([])
 
   const grouped = ingredients.reduce<Record<string, Ingredient[]>>((acc, item) => {
@@ -72,7 +72,7 @@ export const App = () => {
         className="buttons_container"
       >
         {
-          step > 1 &&
+          step > 0 &&
           <button
             className="prev-btn"
             onClick={() => setStep(step - 1)}
@@ -84,7 +84,7 @@ export const App = () => {
           onClick={() => setStep(step + 1)}
         >
           {
-            step === 4 ?
+            step === 3 ?
             'finish' :
             'next'
           }
