@@ -1,7 +1,7 @@
 import recipes from "../../assets/platos_orientales_final.json"
 import './finalRecipe.css'
 
-export const FinalRecipe = (props: { combo: string }) => {
+export const FinalRecipe = (props: { combo: string, reiniciar:()=>void }) => {
     const dishData = recipes.find(rec => rec.combo_id === props.combo) || recipes[0];
 
     return (
@@ -68,7 +68,7 @@ export const FinalRecipe = (props: { combo: string }) => {
                         </button>
                     </div>
                     <div className="button-container">
-                        <button className="back-button">
+                        <button className="back-button" onClick={() => props.reiniciar()}>
                             Crear otra receta
                         </button>
                     </div>
