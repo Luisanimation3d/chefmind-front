@@ -35,7 +35,7 @@ export const App = () => {
     setSelected(selectedItems)
   }
 
-  const hasSelection = !!selected[step]
+  const hasSelection = typeof selected[step] !== 'undefined' && selected[step] !== null
 
   const handleNext = () => {
     if (!hasSelection) return
