@@ -34,3 +34,7 @@
     color: white;
     font-size: .8rem;
 }
+
+.card_dimmed {
+    opacity: .4;
+}

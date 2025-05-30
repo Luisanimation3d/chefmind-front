@@ -35,6 +35,13 @@ export const App = () => {
     setSelected(selectedItems)
   }
 
+  const hasSelection = !!selected[step]
+
+  const handleNext = () => {
+    if (!hasSelection) return
+    setStep(s => Math.min(s + 1, types.length - 1))
+  }
+
   return (
     <div style={{
       display: 'flex',
@@ -65,6 +72,7 @@ export const App = () => {
             ingredient={item}
             onClick={onSelect}
             selected={selected[step] === item.id}
+            dimmed={selected[step] !== item.id}
           />
         ))}
       </div>
@@ -81,7 +89,7 @@ export const App = () => {
           </button>
         }
         <button
-          onClick={() => setStep(step + 1)}
+          onClick={handleNext}
         >
           {
             step === 3 ?
@@ -93,8 +101,3 @@ export const App = () => {
     </div>
   )
 }
-
-// proteina
-//  carbohidrato
-//  Salsa
-// Vegetal
