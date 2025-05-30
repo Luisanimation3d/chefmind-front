@@ -83,7 +83,8 @@ export const App = () => {
             ingredient={item}
             onClick={onSelect}
             selected={selected[step] === item.id}
-            dimmed={selected[step] !== item.id}
+            // dimmed={selected[step] !== item.id}
+            dimmed={hasSelection && selected[step] !== item.id}
           />
         ))}
       </div>
