@@ -1,6 +1,31 @@
 import { CardIngredient } from "./components/CardIngredient/CardIngredient"
+import ingredients from './assets/ingredientes_orientales.json'
+import { useState } from "react";
+interface Ingredient {
+  id: number;
+  name: string;
+  type: string;
+  imagen: string;
+}
 
 export const App = () => {
+  const [step, setStep] = useState(1)
+
+  const grouped = ingredients.reduce<Record<string, Ingredient[]>>((acc, item) => {
+    if (!acc[item.type]) {
+      acc[item.type] = [];
+    }
+    acc[item.type].push(item);
+    return acc;
+  }, {});
+  
+  const types = Object.keys(grouped)
+
+  const currentType = types[step]
+
+  const items = grouped[currentType] || []
+
+  const gridSize = Math.ceil(Math.sqrt(items.length));
   return (
     <div style={{
       display: 'flex',
@@ -16,24 +41,23 @@ export const App = () => {
           letterSpacing: '0.08em',
           fontSize: '1.5rem'
         }}
-      >Fruta</h2>
+      >
+        {currentType}
+      </h2>
       <div
         style={{
           display: "grid",
           gap: "1rem",
-          gridTemplateColumns: "1fr 1fr 1fr",
+          gridTemplateColumns: `repeat(${gridSize}, 1fr)`,
           placeContent: "center",
         }}
       >
-        <CardIngredient/>
-        <CardIngredient/>
-        <CardIngredient/>
-        <CardIngredient/>
-        <CardIngredient selected/>
-        <CardIngredient/>
-        <CardIngredient/>
-        <CardIngredient/>
-        <CardIngredient/>
+        {items.map((item) => (
+          <CardIngredient
+            key={item.id}
+            ingredient={item}
+          />
+        ))}
       </div>
       <button
         style={{

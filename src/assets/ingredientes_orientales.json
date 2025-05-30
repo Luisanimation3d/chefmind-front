@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Arroz blanco",
+    "type": "carbohydrates",
+    "imagen": "Gemini_Generated_Image_akqqqoakqqqoakqq.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fideos udon",
+    "type": "carbohydrates",
+    "imagen": "Gemini_Generated_Image_n2c5mtn2c5mtn2c5.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fideos soba",
+    "type": "carbohydrates",
+    "imagen": "Gemini_Generated_Image_2f1ouh2f1ouh2f1o.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Salmón",
+    "type": "proteins",
+    "imagen": "abstral-official-dKhkCiD4zEQ-unsplash.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pollo teriyaki",
+    "type": "proteins",
+    "imagen": "Gemini_Generated_Image_dk0t93dk0t93dk0t.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tofu",
+    "type": "proteins",
+    "imagen": "christina-deravedisian-jntQPBIK_sE-unsplash.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Miso",
+    "type": "sauces",
+    "imagen": "Salsa miso.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Aceite de sésamo",
+    "type": "sauces",
+    "imagen": "Gemini_Generated_Image_ge58ege58ege58eg.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Salsa de soya",
+    "type": "sauces",
+    "imagen": "Gemini_Generated_Image_1lpkzc1lpkzc1lpk.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Alga wakame",
+    "type": "vegetables",
+    "imagen": "Gemini_Generated_Image_shdgrnshdgrnshdg.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Espinaca",
+    "type": "vegetables",
+    "imagen": "istockphoto-1006196472-1024x1024.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Setas shiitake",
+    "type": "vegetables",
+    "imagen": "Gemini_Generated_Image_ul7rlnul7rlnul7r.jpg"
+  }
+]
