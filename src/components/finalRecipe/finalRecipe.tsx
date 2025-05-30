@@ -4,19 +4,19 @@ import './finalRecipe.css'
 export const FinalRecipe = (props: { combo: string }) => {
     const dishData = recipes.find(rec => rec.combo_id === props.combo) || recipes[0];
 
-    const printRecipe = () => {
-        window.print()
-    }
-
     return (
         <div className="app-container">
             <div className="recipe-card">
                 {/* Sección de la imagen */}
                 <div className="recipe-image-section">
                     <img
-                        src={dishData.image}
+                        src={'images/recipes/'+dishData.imagen || 'images/image_default.png'}
                         alt={dishData.name}
                         className="recipe-image"
+                        onError={({ currentTarget }) => {
+                            currentTarget.onerror = null;
+                            currentTarget.src="images/image_default.png";
+                        }}
                     />
                 </div>
 
@@ -63,7 +63,7 @@ export const FinalRecipe = (props: { combo: string }) => {
 
                     {/* Botón de acción */}
                     <div className="button-container">
-                        <button className="print-button" onClick={printRecipe}>
+                        <button className="print-button" onClick={() => window.print()}>
                             Imprimir receta
                         </button>
                     </div>
