@@ -100,6 +100,7 @@ export const App = () => {
           </button>
         }
         <button
+          className="next-btn"
           onClick={handleNext}
         >
           {
